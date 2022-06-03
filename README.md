@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SD346
+- 👋 Hi, I’m @SD346 and I am a Data Analyst
 - 👀 I’m interested in AI, ML, DL, CV and Self Driving Cars
 - 🌱 I’m currently learning CV
 - 💞️ I’m looking to collaborate on Self Driving Car Projects
