@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayantan Deb</h1>
+<h1 align="center">Hi, I'm Sayantan Deb</h1>
 <h3 align="center">Experienced Data Analyst seeking a position to help technology groups on analytical initiatives to improve
 operational insight.</h3>
 
