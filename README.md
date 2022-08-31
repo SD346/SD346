@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayantan Deb</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
-<p align="left"> <a href="https://twitter.com/iamsd346" target="blank"><img src="https://img.shields.io/twitter/follow/iamsd346?logo=twitter&style=for-the-badge" alt="iamsd346" /></a> </p>
+
 
 - 🌱 I’m currently learning **CNN, RNN**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **sayantan346@gmail.com**
 
 - ⚡ Fun fact **I think I have a keen eye on detail**
+
+<p align="left"> <a href="https://twitter.com/iamsd346" target="blank"><img src="https://img.shields.io/twitter/follow/iamsd346?logo=twitter&style=for-the-badge" alt="iamsd346" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
