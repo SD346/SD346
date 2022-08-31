@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayantan Deb</h1>
-<h3 align="center">A Data Analyst from India</h3>
+<h3 align="center">Experienced Data Analyst seeking a position to help technology groups on analytical initiatives to improve
+operational insight.</h3>
 
 
 
