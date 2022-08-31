@@ -4,13 +4,13 @@ operational insight.</h3>
 
 
 
-- 🌱 I’m currently learning: **CNN, RNN**
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `🌱 I’m currently learning: CNN, RNN`
 
-- 💬 Ask me about: **AI, ML, DL**
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `💬 Ask me about: AI, ML, DL`
 
-- 📫 How to reach me: **sayantan346@gmail.com**
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `📫 How to reach me: sayantan346@gmail.com`
 
-- ⚡ Fun fact: **I think I have a keen eye on detail**
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `⚡ Fun fact: **I think I have a keen eye on detail`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
