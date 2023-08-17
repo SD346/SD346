@@ -7,9 +7,9 @@ operational insight.</h3>
 
 
 
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `🌱 I’m currently learning: CNN, RNN`
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `🌱 I’m currently learning: Data Engineering`
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `💬 Ask me about: AI, ML, DL`
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `💬 Ask me about: Data Quality`
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `📫 How to reach me: sayantan346@gmail.com`
 
